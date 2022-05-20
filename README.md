@@ -3,13 +3,13 @@ This repository holds the Certificates of Completion reached during my carrer tr
 
 ## Education
 
-### [Software Development Technician (2022)]([Florianopolis_Tecnico_em_Desenvolvimento_de_Sistemas_Raquel_Darelli_Michelon_assinado_zizimo_assinado.pdf](https://github.com/RaquelMichelon/Certificates-of-Completion/blob/main/Florianopolis_Tecnico_em_Desenvolvimento_de_Sistemas_Raquel_Darelli_Michelon_assinado_zizimo_assinado.pdf))
+### [Software Development Technician (2022)](https://github.com/RaquelMichelon/Certificates-of-Completion/blob/main/Florianopolis_Tecnico_em_Desenvolvimento_de_Sistemas_Raquel_Darelli_Michelon_assinado_zizimo_assinado.pdf)
 
 ### [Msc. Technical and Professional Education (2021)](https://github.com/RaquelMichelon/Certificates-of-Completion/blob/main/Raquel%20Darelli%20Michelon_assinado.pdf)
 
 ## Hard and Soft Skills Courses
 
-### [Intro to Machine Learning]([https://github.com/RaquelMichelon/Certificates-of-Completion/blob/main/Intro_SQL_datacamp.pdf](https://github.com/RaquelMichelon/Certificates-of-Completion/blob/main/Raquel%20Darelli%20Michelon%20-%20Intro%20to%20Machine%20Learning.png))
+### [Intro to Machine Learning](https://github.com/RaquelMichelon/Certificates-of-Completion/blob/main/Raquel%20Darelli%20Michelon%20-%20Intro%20to%20Machine%20Learning.png)
 ### [Introduction to SQL](https://github.com/RaquelMichelon/Certificates-of-Completion/blob/main/Intro_SQL_datacamp.pdf)
 ### [Site Development (2021)](https://github.com/RaquelMichelon/Certificates-of-Completion/blob/main/Avancado%20Sao%20Lourenco%20do%20Oeste_Desenvolvimento%20de%20Sites_Raquel%20Darelli%20Michelon_assinado_assinado.pdf)
 ### [Data Structure](CertificadoDioEstruturaDeDados.pdf)
@@ -24,14 +24,14 @@ This repository holds the Certificates of Completion reached during my carrer tr
 ### [Excel for interviews]([certificadoLabArduino.pdf](https://github.com/RaquelMichelon/Certificates-of-Completion/blob/main/CERTIFICADO_EXCEL_PARA_PROC_SELETIVOS_3H.pdf))
 
 ## English Certificates
-### [English B2 - 2022]([certificadoLabArduino.pdf](https://github.com/RaquelMichelon/Certificates-of-Completion/blob/main/Certificate%20II%20-%20Raquel.pdf))
-### [English B1 - 2021]([certificadoLabArduino.pdf](https://github.com/RaquelMichelon/Certificates-of-Completion/blob/main/Certificate%20I%20-%20Raquel.pdf))
+### [English B2 - 2022](https://github.com/RaquelMichelon/Certificates-of-Completion/blob/main/Certificate%20II%20-%20Raquel.pdf)
+### [English B1 - 2021](https://github.com/RaquelMichelon/Certificates-of-Completion/blob/main/Certificate%20I%20-%20Raquel.pdf)
 
 
 ## Events
 
-### [Programaria - Sprint Área de Dados]([Certificates-of-Completion/blob/main/certificado-dowhile.pdf](https://github.com/RaquelMichelon/Certificates-of-Completion/blob/main/Raquel%20Michelon%20Certificado%20PrograMaria%20Sprint%20%C3%81rea%20de%20Dados.pdf))
+### [Programaria - Sprint Área de Dados](https://github.com/RaquelMichelon/Certificates-of-Completion/blob/main/Raquel%20Michelon%20Certificado%20PrograMaria%20Sprint%20%C3%81rea%20de%20Dados.pdf)
 ### [Do While](Certificates-of-Completion/blob/main/certificado-dowhile.pdf)
 ### [Data Universe II](certificado_dataUniverseraquelmichelonmestrado_.pdf)
 ### [Data Science Week](certificado_data_science.pdf)
-### [17o Semana Nacional de Ciência e Tecnologia]([certificado_data_science.pdf](https://github.com/RaquelMichelon/Certificates-of-Completion/blob/main/Certificados%20Abertura%20SNCT%20Raquel%20Darelli%20Michelon.pdf))
+### [17o Semana Nacional de Ciência e Tecnologia](https://github.com/RaquelMichelon/Certificates-of-Completion/blob/main/Certificados%20Abertura%20SNCT%20Raquel%20Darelli%20Michelon.pdf)
