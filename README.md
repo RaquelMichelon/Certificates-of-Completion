@@ -11,11 +11,10 @@ This repository holds the Prizes and the Certificates of Completion reached duri
 
 * ### [Msc. Technical and Professional Education (2021)](https://github.com/RaquelMichelon/Certificates-of-Completion/blob/main/Raquel%20Darelli%20Michelon_assinado.pdf)
 
-* ### [Science Event (2022)](https://github.com/RaquelMichelon/Certificates-of-Completion/blob/main/201_assinado.pdf)
-* ### [Science Week Event (2022)](https://github.com/RaquelMichelon/Certificates-of-Completion/blob/main/CERTIFICADO_PROEX_88621.pdf)
-
 ## Presentations
 
+* ### [Science Event (2022)](https://github.com/RaquelMichelon/Certificates-of-Completion/blob/main/201_assinado.pdf)
+* ### [Science Week Event (2022)](https://github.com/RaquelMichelon/Certificates-of-Completion/blob/main/CERTIFICADO_PROEX_88621.pdf)
 ## Hard and Soft Skills Courses
 
 * ### [Intro to Machine Learning](https://github.com/RaquelMichelon/Certificates-of-Completion/blob/main/Raquel%20Darelli%20Michelon%20-%20Intro%20to%20Machine%20Learning.png)
