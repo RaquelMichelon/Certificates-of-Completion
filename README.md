@@ -1,5 +1,9 @@
-# Certificates-of-Completion
-This repository holds the Certificates of Completion reached during my carrer transition.
+# Certificates-of-Completion & Academic Prizes
+This repository holds the Prizes and the Certificates of Completion reached during my IT carrer path.
+
+## Academic Prizes
+
+* ### [Scientific Merit (2023)](https://github.com/RaquelMichelon/Certificates-of-Completion/blob/main/IOT_Project_Scientific_Merit.pdf)
 
 ## Education
 
