@@ -3,7 +3,7 @@ This repository holds the Prizes and the Certificates of Completion reached duri
 
 ## Academic Prizes
 
-* ### [Scientific Merit (2023)](https://github.com/RaquelMichelon/Certificates-of-Completion/blob/main/IOT_Project_Scientific_Merit.pdf)
+* ### [Scientific Merit (2022)](https://github.com/RaquelMichelon/Certificates-of-Completion/blob/main/IOT_Project_Scientific_Merit.pdf)
 
 ## Education
 
@@ -11,6 +11,10 @@ This repository holds the Prizes and the Certificates of Completion reached duri
 
 * ### [Msc. Technical and Professional Education (2021)](https://github.com/RaquelMichelon/Certificates-of-Completion/blob/main/Raquel%20Darelli%20Michelon_assinado.pdf)
 
+* ### [Science Event (2022)](https://github.com/RaquelMichelon/Certificates-of-Completion/blob/main/201_assinado.pdf)
+* ### [Science Week Event (2022)](https://github.com/RaquelMichelon/Certificates-of-Completion/blob/main/CERTIFICADO_PROEX_88621.pdf)
+
+## Presentations
 
 ## Hard and Soft Skills Courses
 
