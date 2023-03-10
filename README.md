@@ -15,6 +15,13 @@ This repository holds the Prizes and the Certificates of Completion reached duri
 
 * ### [Science Event (2022)](https://github.com/RaquelMichelon/Certificates-of-Completion/blob/main/201_assinado.pdf)
 * ### [Science Week Event (2022)](https://github.com/RaquelMichelon/Certificates-of-Completion/blob/main/CERTIFICADO_PROEX_88621.pdf)
+
+## Bootcamps and Codecamps
+
+* ### [Codecamp JavaScript - March, 23](https://www.dio.me/certificate/5E79FF1E/share)
+* ### [Bootcamp Docker Fundamentals - February, 23](https://www.dio.me/certificate/1CCEF1F8/share)
+* ### [Bootcamp Linux Experience - February, 23](https://www.dio.me/certificate/3DA0A86C/share)
+
 ## Hard and Soft Skills Courses
 
 * ### [Intro to Machine Learning](https://github.com/RaquelMichelon/Certificates-of-Completion/blob/main/Raquel%20Darelli%20Michelon%20-%20Intro%20to%20Machine%20Learning.png)
