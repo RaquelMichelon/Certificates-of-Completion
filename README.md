@@ -3,7 +3,11 @@ This repository holds the Prizes and the Certificates of Completion reached duri
 
 ## Academic Prizes
 
-* ### [Scientific Merit (2022)](https://github.com/RaquelMichelon/Certificates-of-Completion/blob/main/IOT_Project_Scientific_Merit.pdf)
+* ### [Scientific Merit (2022) - Cientific Initiation Show](https://github.com/RaquelMichelon/Certificates-of-Completion/blob/main/IOT_Project_Scientific_Merit.pdf)
+
+- Project demonstration [here](https://youtu.be/I2q68EnDBmQ)
+- Project abstract [here](https://www.ifsc.edu.br/documents/832555/14311455/T24.pdf/e9b0c5d2-ea6c-4d24-bde4-2ae6fa32fe94)
+- Awarded Projects List [here](https://www.ifsc.edu.br/documents/832555/14311455/Trabalhos+premiados_retificado.pdf/6e1ef2a3-e487-47a3-94cb-3e2e709d3feb)
 
 ## Education
 
@@ -14,7 +18,10 @@ This repository holds the Prizes and the Certificates of Completion reached duri
 ## Presentations
 
 * ### [Science Event (2022)](https://github.com/RaquelMichelon/Certificates-of-Completion/blob/main/201_assinado.pdf)
+
 * ### [Science Week Event (2022)](https://github.com/RaquelMichelon/Certificates-of-Completion/blob/main/CERTIFICADO_PROEX_88621.pdf)
+
+- Project demonstration [here](https://www.youtube.com/watch?v=4r56gmYKKi0)
 
 ## Bootcamps and Codecamps
 
